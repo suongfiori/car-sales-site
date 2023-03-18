@@ -3,7 +3,7 @@ Responsive car sales site built with React using Vite. Allow users to view a lis
 
 Figma [design](https://www.figma.com/file/qhHkkzlsyzNZnaOpZuRSHJ/Cars-Layout?node-id=0-1&t=aGvEXQKd4Yww466h-0)
 
-View live [here]()
+View live [version](https://elaborate-baklava-4b32da.netlify.app/)
 
 It is built using <br>
 
