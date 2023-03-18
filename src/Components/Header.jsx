@@ -21,7 +21,7 @@ const Header = ({handleMenuClick, showPanel}) => {
             style={{
                 clipPath: showPanel
                   ? 'circle(100% at 50% 50%)'
-                  : 'circle(0% at 100% 0%)',
+                  : 'circle(0% at 100% 0%)'
               }}
             >
                 <div className="chk-container">
