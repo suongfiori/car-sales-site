@@ -1,9 +1,10 @@
 <h1>Car Sales Site</h1>
-Responsive car sales site built with React using Vite. Allow users to view a list of cars, filter them based on their ownership types, and mark on their favorites.
 
-Figma [design](https://www.figma.com/file/qhHkkzlsyzNZnaOpZuRSHJ/Cars-Layout?node-id=0-1&t=aGvEXQKd4Yww466h-0)
+Responsive car sales site built with React using Vite. Allow users to view a list of cars, filter them based on their ownership types, and mark on their favorites.<br>
 
-View live [here]()
+:arrow_forward: Figma [design](https://www.figma.com/file/qhHkkzlsyzNZnaOpZuRSHJ/Cars-Layout?node-id=0-1&t=aGvEXQKd4Yww466h-0)
+
+:arrow_forward: View live [version](https://elaborate-baklava-4b32da.netlify.app/)
 
 It is built using <br>
 
@@ -21,8 +22,10 @@ It is built using <br>
 
 :heavy_check_mark: Circle transitions and animations when the menu navbar is opened or closed.
 
-
+<!--
 ### Credits
 :arrow_right: This landing page Figma design was created by Gary Simon as part of his course ["From Figma to code"](https://scrimba.com/learn/figmatocode).
 
-:arrow_right: I built the app in Vanilla JS, then rebuilt it in React afterwards.
+:arrow_right: I built the app in Vanilla JS, then rebuilt it in React afterwards.--!>
+
+
