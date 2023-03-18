@@ -21,8 +21,10 @@ It is built using <br>
 
 :heavy_check_mark: Circle transitions and animations when the menu navbar is opened or closed.
 
-
+<!--
 ### Credits
 :arrow_right: This landing page Figma design was created by Gary Simon as part of his course ["From Figma to code"](https://scrimba.com/learn/figmatocode).
 
-:arrow_right: I built the app in Vanilla JS, then rebuilt it in React afterwards.
+:arrow_right: I built the app in Vanilla JS, then rebuilt it in React afterwards.--!>
+
+
