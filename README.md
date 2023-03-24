@@ -3,7 +3,7 @@
 Responsive car sales site built with React using Vite. Allow users to view a list of cars, filter them based on their ownership types, and mark on their favorites.<br>
 
 
-:arrow_forward: [Live Deployment Link](https://elaborate-baklava-4b32da.netlify.app/)
+:arrow_forward: [Live Deployment Link](https://car-sales-site.vercel.app/)
 
 :arrow_forward: [Figma Design Link](https://www.figma.com/file/qhHkkzlsyzNZnaOpZuRSHJ/Cars-Layout?node-id=0-1&t=aGvEXQKd4Yww466h-0)
 
